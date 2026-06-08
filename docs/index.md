@@ -1,35 +1,33 @@
 # Home
 
-## Working Group Title
+## CMSMapper: Optimal climate mitigation planning for nature and people
 
-Working Group Title
-
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
-
-As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
-
-[Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
-
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
-
---8<-- "_generated/slot_notes/hero.md"
+The U.S is amid two environmental crises: a climate crisis due to rising carbon emissions and a biodiversity crisis due to unprecedented ecosystem degradation driving loss of species. At the same time, economic and technological growth demands higher energy production. The expansion of the U.S energy grid must co-occur within a landscape matrix that also considers climate and biodiversity priorities.  Alongside these land use trade-offs, there is also a need to consider consequences of land use planning on socio-economic issues such as human health, livelihood and social inequities. Activities to reduce or sequester carbon emissions, or climate mitigation strategies (CMS) are essential to address the climate crisis with some CMS, such as ecological restoration, also having benefits to biodiversity. Over the years, there has been growing literature on the interactions between CMS, nature and people. However, these disparate datasets have not been reconciled for decision making across regions in the U.S. The development of evidence-based guidance on optimal CMS planning requires cross-sectoral expertise, data synthesis, and the production of open, harmonized data products.
 
 ## Working Group Abstract
 
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
+CMSMapper is a multidisciplinary working group with the aim of developing an integrative strategy for optimal siting of climate mitigation strategies (CMS) that minimizes land use incompatibilities and bolsters potential benefits for nature and people in the U.S. In the first developmental stage of CMSMapper, the group will review and synthesize the trade-offs between competing land use needs for CMS across U.S. regions and harmonize big environmental data that informs CMS placement across disciplinary boundaries that can be compatible and useful for actionable knowledge. The aim is to provide a foundation of synthesized trade-offs, data products, and tools that could inform decision-making prior to the deployment of both renewable energy and restoration projects. Our findings will be integrated into a spatial optimization framework that allows stakeholders to evaluate scenarios for implanting CMS depending on outcomes to biodiversity conservation, climate, and socio-economic issues. 
 
-## Start Here
+## Working Group PIs
+Evelyn Beaury, PhD and Laura A. Nunes, PhD 
+[photo from ESIIL website](https://esiil.org/sites/default/files/inline-images/image_13.png)
 
-1. Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
-2. Add or link the datasets, working documents, and references your group will use.
-3. Run or adapt at least one analysis workflow and record decisions in the repository.
-4. Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
-5. Use the website to share progress, methods, and results with collaborators and community audiences.
+## Proposed Activities 
+### Proposed Activity 1: Data synthesis on interactions between CMS, nature and people
+Conservation values and interests are not homogenous across the U.S., nor are energy needs and land-use constraints. Here, we aim to identify points of tensions between multiple land use demands across U.S. regions, by outlining the main axes of tradeoffs between land management practices for CMS (e.g., renewable energy and ecological restoration), biodiversity conservation and supporting economically disadvantaged or vulnerable communities. To achieve this goal, we will engage in 3 sub-activities: 1) Conduct a systematic scoping review to synthesize risks and trade-offs between CMS (terrestrial solar or wind energy vs restoration), biodiversity conservation and disadvantaged or vulnerable groups across U.S 2) Collate all relevant literature into a curated, open repository 3) Develop an interactive visualization tool that informs the public on the major risks and opportunities among different land management practices (CMS, conservation and socio-economic activities) across regions of the U.S.
+
+### Proposed Activity 2: Harmonization of big socio-environmental data for CMS siting
+We aim to develop a reproducible framework that integrates socio-economic variables and biodiversity conservation priorities into suitability assessments of CMS siting. To achieve this goal, we will harness a diverse set of big environmental data. These disparate data sources span multiple spatial resolutions (e.g., 1000m,300m, 30m) and data types (gridded rasters, spatial polygons), thus requiring a data harmonization process prior to data analysis. This proposed activity will leverage ESIIL’s CyVerse and Git platforms to develop a reproducible framework for storing and harmonizing these datasets.
+
+## Outcomes
+The working group aims to generate the following data synthesis outputs: 1) Establish a primer for reproducible harmonization of existing data related to siting of CMS that considers nature and people in the U.S. 2) A synthesis report on gaps and opportunities for optimal spatial planning of CMS considering regional interests and tradeoffs for nature and people in the U.S. 3) An interactive, user-friendly learning tool showcasing the synthesis of the best available data on renewable energy, restoration, and intersection with critical areas for nature and people.
+
+## Group Members
 
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
 [Set community expectations](community-care.md){ .md-button .md-button--secondary }
+[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
 ## Working Group Landmarks
 
