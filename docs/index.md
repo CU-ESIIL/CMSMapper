@@ -4,9 +4,7 @@
 
 The U.S is amid two environmental crises: a climate crisis due to rising carbon emissions and a biodiversity crisis due to unprecedented ecosystem degradation driving loss of species. At the same time, economic and technological growth demands higher energy production. The expansion of the U.S energy grid must co-occur within a landscape matrix that also considers climate and biodiversity priorities.  Alongside these land use trade-offs, there is also a need to consider consequences of land use planning on socio-economic issues such as human health, livelihood and social inequities. Activities to reduce or sequester carbon emissions, or climate mitigation strategies (CMS) are essential to address the climate crisis with some CMS, such as ecological restoration, also having benefits to biodiversity. Over the years, there has been growing literature on the interactions between CMS, nature and people. However, these disparate datasets have not been reconciled for decision making across regions in the U.S. The development of evidence-based guidance on optimal CMS planning requires cross-sectoral expertise, data synthesis, and the production of open, harmonized data products.
 
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
-
---8<-- "_generated/slot_notes/hero.md"
+![Working Group Hero](assets/images/CMSMapper_framework_ESIIL.jpg){ .homepage-hero }
 
 ## Working Group Abstract
 
