@@ -9,8 +9,8 @@ The U.S is amid two environmental crises: a climate crisis due to rising carbon 
 CMSMapper is a multidisciplinary working group with the aim of developing an integrative strategy for optimal siting of climate mitigation strategies (CMS) that minimizes land use incompatibilities and bolsters potential benefits for nature and people in the U.S. In the first developmental stage of CMSMapper, the group will review and synthesize the trade-offs between competing land use needs for CMS across U.S. regions and harmonize big environmental data that informs CMS placement across disciplinary boundaries that can be compatible and useful for actionable knowledge. The aim is to provide a foundation of synthesized trade-offs, data products, and tools that could inform decision-making prior to the deployment of both renewable energy and restoration projects. Our findings will be integrated into a spatial optimization framework that allows stakeholders to evaluate scenarios for implanting CMS depending on outcomes to biodiversity conservation, climate, and socio-economic issues. 
 
 ## Working Group PIs
-Evelyn Beaury, PhD and Laura A. Nunes, PhD 
-[photo from ESIIL website](https://esiil.org/sites/default/files/inline-images/image_13.png)
+Evelyn Beaury (New York Botanical Garden), Laura Nunes (Defenders of Wildlife)
+![photo from ESIIL website][https://esiil.org/sites/default/files/inline-images/image_13.png] { .homepage-hero }
 
 ## Proposed Activities 
 ### Proposed Activity 1: Data synthesis on interactions between CMS, nature and people
@@ -23,6 +23,11 @@ We aim to develop a reproducible framework that integrates socio-economic variab
 The working group aims to generate the following data synthesis outputs: 1) Establish a primer for reproducible harmonization of existing data related to siting of CMS that considers nature and people in the U.S. 2) A synthesis report on gaps and opportunities for optimal spatial planning of CMS considering regional interests and tradeoffs for nature and people in the U.S. 3) An interactive, user-friendly learning tool showcasing the synthesis of the best available data on renewable energy, restoration, and intersection with critical areas for nature and people.
 
 ## Group Members
+| Name | Role | Institution | Responsibilities |
+| --- | --- | --- | --- |
+| Laura Nunes | Co-PI, Tech Lead | Defenders of Wildlife | Responsibilities |
+| Evelyn Beaury | Co-PI, Team Lead | New York Botanical Garden | Responsibilities |
+
 
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
