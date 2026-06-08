@@ -10,7 +10,9 @@ CMSMapper is a multidisciplinary working group with the aim of developing an int
 
 ## Working Group PIs
 Evelyn Beaury (New York Botanical Garden), Laura Nunes (Defenders of Wildlife)
-![photo from ESIIL website][https://esiil.org/sites/default/files/inline-images/image_13.png] { .homepage-hero }
+![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
+
+--8<-- "_generated/slot_notes/hero.md"
 
 ## Proposed Activities 
 ### Proposed Activity 1: Data synthesis on interactions between CMS, nature and people
