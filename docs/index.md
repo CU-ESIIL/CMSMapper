@@ -10,8 +10,7 @@ CMSMapper is a multidisciplinary working group with the aim of developing an int
 ![Working Group Hero](assets/images/CMSMapper_framework_ESIIL.jpg)
 
 ### Working Group PIs
-Evelyn Beaury (New York Botanical Garden), Laura Nunes (Defenders of Wildlife)
-
+Laura Nunes (Defenders of Wildlife), Evelyn Beaury (New York Botanical Garden)
 ![PI Working Group Hero](assets/images/ESIIL_headshots.png)
 
 ### Context
