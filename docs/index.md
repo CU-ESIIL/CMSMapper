@@ -38,15 +38,21 @@ The working group aims to generate the following data synthesis outputs: 1) Esta
 [Set community expectations](community-care.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
+## Working Group Milestones
+
+#### Virtual WG Meet & Greet: October 2026
+#### In-person WG meeting, ESIIL: Nov 2026
+#### Virtual WG Meeting: Spring 2027
+#### In-person WG meeting, ESIIL: Fall 2027
+#### Virtual WG meeting: Spring 2028
+
 ## Working Group Landmarks
 
-### Virtual WG Meet & Greet: October 2026
-### In-person WG meeting, ESIIL: Nov 2026
-### Virtual WG Meeting: Spring 2027
-### In-person WG meeting, ESIIL: Fall 2027
-### Virtual WG meeting: Spring 2028
-
-WG-A People and roles; WG-B Question and scope; WG-C Data and access; WG-D Methods and workflows; WG-E Results and synthesis; WG-F Outputs and handoff.
+### WG-A People and roles;
+### WG-B Question and scope;
+### WG-C Data and access; WG-D Methods and workflows; 
+### WG-E Results and synthesis; 
+### WG-F Outputs and handoff.
 
 [Use the landmark guide](instructions/working-group-landmarks.md){ .md-button .md-button--secondary }
 
