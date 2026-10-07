@@ -26,12 +26,20 @@ We aim to develop a reproducible framework that integrates socio-economic variab
 ## Outcomes
 The working group aims to generate the following data synthesis outputs: 1) Establish a primer for reproducible harmonization of existing data related to siting of CMS that considers nature and people in the U.S. 2) A synthesis report on gaps and opportunities for optimal spatial planning of CMS considering regional interests and tradeoffs for nature and people in the U.S. 3) An interactive, user-friendly learning tool showcasing the synthesis of the best available data on renewable energy, restoration, and intersection with critical areas for nature and people.
 
-## Group Members
+## A: Team Members
+
 | Name | Role | Institution | Responsibilities |
 | --- | --- | --- | --- |
 | Laura Nunes | Co-PI, Tech Lead | Defenders of Wildlife | Responsibilities |
 | Evelyn Beaury | Co-PI, Team Lead | New York Botanical Garden | Responsibilities |
 
+## B: Current Phase
+Working Phase: Preparing for Meeting 1  
+WG will be having its first in-person meeting Nov 2- Nov 6 in Boulder, CO
+
+![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
+
+--8<-- "_generated/slot_notes/group-photo.md"
 
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
@@ -39,20 +47,22 @@ The working group aims to generate the following data synthesis outputs: 1) Esta
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
 ## Working Group Milestones
-
 #### Virtual WG Meet & Greet: October 2026
 #### In-person WG meeting, ESIIL: Nov 2026
 #### Virtual WG Meeting: Spring 2027
 #### In-person WG meeting, ESIIL: Fall 2027
 #### Virtual WG meeting: Spring 2028
 
-## Working Group Landmarks
+## C: Data and Access
+coming soon
+## D: Methods and Workflows
+coming soon
+## E: Results and Synthesis
+coming soon
+## F: Outputs and Handoff
+coming soon
 
-### WG-A People and roles;
-### WG-B Question and scope;
-### WG-C Data and access; WG-D Methods and workflows; 
-### WG-E Results and synthesis; 
-### WG-F Outputs and handoff.
+
 
 [Use the landmark guide](instructions/working-group-landmarks.md){ .md-button .md-button--secondary }
 
@@ -130,24 +140,6 @@ Use this section for the links your group will actually maintain. Replace each p
 - Data / Resources: [link]
 - Outputs / Dashboard: [link]
 
-## Current Phase
 
-Working Phase: Preparing for Meeting 1  
-(Replace this line with the phase your group is actually in, such as working asynchronously, preparing outputs, or revising a manuscript.)
-
-## Team Members
-
-Replace this table with names, roles, institutions, and responsibilities so new collaborators know who is doing what.
-
-Related landmark: WG-A People and roles.
-
-![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
-
---8<-- "_generated/slot_notes/group-photo.md"
-
-| Name | Role | Institution | Responsibilities |
-| --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
 
 --8<-- "_generated/image_slots.md"
