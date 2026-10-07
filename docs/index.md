@@ -40,7 +40,11 @@ The working group aims to generate the following data synthesis outputs: 1) Esta
 
 ## Working Group Landmarks
 
-Use these lightweight labels to connect work sessions, meeting notes, and homepage edits:
+### Virtual WG Meet & Greet: October 2026
+### In-person WG meeting, ESIIL: Nov 2026
+### Virtual WG Meeting: Spring 2027
+### In-person WG meeting, ESIIL: Fall 2027
+### Virtual WG meeting: Spring 2028
 
 WG-A People and roles; WG-B Question and scope; WG-C Data and access; WG-D Methods and workflows; WG-E Results and synthesis; WG-F Outputs and handoff.
 
