@@ -35,7 +35,7 @@ The working group aims to generate the following data synthesis outputs: 1) Esta
 
 ## B: Current Phase
 Working Phase: Preparing for Meeting 1  
-WG will be having its first in-person meeting Nov 2- Nov 6 in Boulder, CO
+WG will be having an introductory virtual meeting Oct 2026 and the first in-person meeting Nov 2- Nov 6 in Boulder, CO.
 
 ![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
 
@@ -44,7 +44,7 @@ WG will be having its first in-person meeting Nov 2- Nov 6 in Boulder, CO
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
 [Set community expectations](community-care.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
+[Open the GitHub repository](https://github.com/CU-ESIIL/CMSMapper){ .md-button }
 
 ## Working Group Milestones
 #### Virtual WG Meet & Greet: October 2026
