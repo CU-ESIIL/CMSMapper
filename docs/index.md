@@ -37,7 +37,7 @@ The working group aims to generate the following data synthesis outputs: 1) Esta
 Working Phase: Preparing for Meeting 1  
 WG will be having an introductory virtual meeting Oct 2026 and the first in-person meeting Nov 2- Nov 6 in Boulder, CO.
 
-![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
+![Group Photo](assets/images/slots/group-photo/group_photo.svg){ .section-image }
 
 --8<-- "_generated/slot_notes/group-photo.md"
 
